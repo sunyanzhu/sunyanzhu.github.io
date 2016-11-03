@@ -13,7 +13,7 @@ blockquote, button, dd, dl, fieldset, figure, form, h1, h2, h3, h4, h5, h6, inpu
 section {
     width: 100%;
     height: auto;
-    margin-top: 100px;
+    margin-top: 30px;
 }
 
 section>p {
